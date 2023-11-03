@@ -60,7 +60,7 @@ Each member of the Workforce is assigned to a specific branch, but naturally, a 
 
 Each Loan Detail might require one or multiple Loan Collaterals depending on the loan amount and terms. 
 
-![DataModelMIST4610GP1](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/8c5c7659-5ca1-4542-95d1-bca981c9f0ef)
+![DataModelMIST4610GP1](https://github.com/jessngph09/MIST-4610-Project1/blob/582f56a6c76e731cd082e4343409357798a55b22/images/Screenshot%202023-11-03%20at%202.24.15%20PM.png)
 
 
 # Data Dictionary
