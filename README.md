@@ -4,7 +4,7 @@
 29704 Group 6
 
 # Team Members
-1. Luis Garcia @https://github.com/LuisCVG
+1. Luis Garcia @LuisCVG
 2. Emily Coffield @emilycoffieldd
 3. Efe Guvenc @eguvenc03
 4. Eris Jang @erissjang
