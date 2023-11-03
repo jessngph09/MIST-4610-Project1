@@ -19,15 +19,15 @@ These queries are meant to simulate the value of the data set to a business mind
 
 Conversations with ChatGPT: 
 
-![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/203fe8a5-676e-439e-8399-916e4c436b5f)
+![image](https://github.com/jessngph09/MIST-4610-Project1/blob/main/images/Screenshot%202023-11-02%20at%209.15.12%20PM.png)
 
-![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/e0df9549-d44f-42f6-a5de-ec43a72e9a35)
+![image](https://github.com/jessngph09/MIST-4610-Project1/blob/main/images/Screenshot%202023-11-02%20at%209.31.45%20PM.png)
 
-![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/96f5db29-de65-4936-acc8-a2d4f6e7b147)
+![image](https://github.com/jessngph09/MIST-4610-Project1/blob/main/images/Screenshot%202023-11-02%20at%209.32.01%20PM.png)
 
-![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/998ccb90-1062-40da-a440-6343799b8282)
+![image](https://github.com/jessngph09/MIST-4610-Project1/blob/main/images/Screenshot%202023-11-02%20at%209.32.22%20PM.png)
 
-![image](https://github.com/emilycoffieldd/MIST-4610-Project/assets/148081148/ee8f2147-3abe-4481-96e2-bf2d1e533583)
+![image](https://github.com/jessngph09/MIST-4610-Project1/blob/main/images/Screenshot%202023-11-02%20at%209.32.36%20PM.png)
 
 
 
