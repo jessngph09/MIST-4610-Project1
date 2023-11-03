@@ -5,10 +5,10 @@
 
 # Team Members
 1. Luis Garcia [@LuisCVG](https://github.com/LuisCVG)
-2. Emily Coffield @emilycoffieldd
-3. Efe Guvenc @eguvenc03
+2. Emily Coffield [@emilycoffieldd](https://github.com/emilycoffieldd)
+3. Efe Guvenc [@eguvenc03](https://github.com/eguvenc03)
 4. Eris Jang @erissjang
-5. Jessica Nguyen @jessngph09
+5. Jessica Nguyen [@jessngph09](https://github.com/jessngph09)
 
 # Problem Description
 Grassroots Financial Empowerment Co. is at the forefront of fostering sustainable growth in economically challenged areas. By bridging the gap between the underprivileged and basic financial services, we grant microloans that help kick-start businesses, enhance living standards, and nurture dreams.
