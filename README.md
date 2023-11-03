@@ -31,7 +31,7 @@ Conversations with ChatGPT:
 
 
 
-[Data Dictionary](https://github.com/jessngph09/MIST-4610-Project1/blob/1e2d24e0b885e23852efb942a3c9db281aaa8f02/Data%20Dictionary.pdf)
+
 
 # Data Model
 Grassroots Financial Empowerment Co. explained the relationships that exist between the fourteen entities we modeled, so our model was formed off the following specifications:
